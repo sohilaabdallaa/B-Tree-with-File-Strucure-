@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1611371408 source:c:\users\sohil\desktop\third level\file management and processing\assignment 2_btree\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<string>
+	<cstdlib>
+	<vector>
+	<bits/stdc++.h>
+
